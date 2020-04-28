@@ -107,6 +107,11 @@ a:hover {
   top: 50px;
 }
 
+.beach {
+width:50%;
+position: relative;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 150px;
